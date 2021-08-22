@@ -99,6 +99,12 @@ Follow the following steps to get development environment running.
   cd server
   npm run devStart
   ```
+## ScreenShot
+
+
+
+https://user-images.githubusercontent.com/77502312/130367124-534f516a-1c97-4be1-9788-dca684694875.mp4
+
 
 
 ---
