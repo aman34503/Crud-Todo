@@ -6,7 +6,7 @@ MongoDB, Expressjs, React/Redux, Nodejs
 </p>
 
 <p align="center">
-   <a href="https://travis-ci.com/amazingandyyy/mern">
+   <a href="https://github.com/aman34503/Crud-Todo.git">
       <img src="https://travis-ci.com/amazingandyyy/mern.svg?branch=master" />
    </a>
    <a href="https://github.com/amazingandyyy/mern/blob/master/LICENSE">
@@ -23,7 +23,7 @@ MERN stack is the idea of using Javascript/Node for fullstack web development.
 
 ## clone or download
 ```terminal
-$ git clone https://github.com/amazingandyyy/mern.git
+$ git clone https://github.com/aman34503/Crud-Todo.git
 $ npm i
 ```
 
